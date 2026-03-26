@@ -70,6 +70,8 @@
 
 Open the GUI by running the script and use the settings window to customize:
 
+(!gui.png)
+
 ### 🆘 Rescue Settings (Left Side - Critical Zone)
 | Setting | Description | Default |
 |---------|-------------|---------|
