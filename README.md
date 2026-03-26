@@ -7,6 +7,8 @@
 ![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)
 
 ---
+<img src="image.png" width="100%" >
+
 
 ## ✨ Features
 
@@ -70,7 +72,7 @@
 
 Open the GUI by running the script and use the settings window to customize:
 
-(!gui.png)
+<img src="gui.png" width="100%" >
 
 ### 🆘 Rescue Settings (Left Side - Critical Zone)
 | Setting | Description | Default |
