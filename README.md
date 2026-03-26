@@ -35,7 +35,7 @@
 
 1. **Download** the latest release or clone this repository:
    ```bash
-   git clone https://github.com/yourusername/fivem-fishing-minigame-bot-ahk.git
+   git clone https://github.com/thinkRand/fivem-fishing-minigame-bot-ahk.git
    ```
 
 2. **Ensure you have AutoHotkey v1.1 installed**
